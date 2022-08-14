@@ -13,3 +13,5 @@ target_link_libraries(${PROJECT_NAME} PUBLIC
         wx_baseu_xml-3.2
         wx_baseu_net-3.2
         wx_baseu-3.2)
+
+
